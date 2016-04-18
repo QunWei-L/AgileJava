@@ -30,6 +30,7 @@ public class StudentNameTest {
 			Logger logger=Logger.getLogger(Student.class.getName());
 			
 			assertEquals(logger, Student.logger);
+//Not format for delete
 System.out.println(logger==Student.logger);
 
 
